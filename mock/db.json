@@ -1,0 +1,22 @@
+{
+  "display": {
+    "refreshDelay": 500,
+    "wifiCheckDelay": 5000
+  },
+  "wifi": {
+    "ssid": "Testwifi",
+    "password": "12345678"
+  },
+  "time": {
+    "ntpServer": "pool.ntp.org",
+    "timesyncDelay": 108000
+  },
+  "firebase": {
+    "userEmail": "test@mail.com",
+    "userPassword": "12345678",
+    "apiKey": "AIzaSyD1Gy1b7J9fT0Q6J1J9fT0Q6J1J9fT0Q6",
+    "databaseUrl": "https://rtdb.europe-west1.firebasedatabase.app/",
+    "databasePath": "readings",
+    "uploadDelay": 5000
+  }
+}
